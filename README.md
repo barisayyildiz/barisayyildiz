@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning Web Development
 
+<img src="https://github-readme-stats.vercel.app/api?username=barisayyildiz&theme=dark&text_color=68B486&title_color=90B427&show_icons=true">
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
