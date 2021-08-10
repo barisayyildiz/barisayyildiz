@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Barış Ayyıldız
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development & Data Science
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9F-ayy%C4%B1ld%C4%B1z-627704174/">
