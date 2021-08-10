@@ -23,6 +23,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=barisayyildiz&theme=dark&text_color=68B486&title_color=90B427&show_icons=true"> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisayyildiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 - 🔭 I’m currently working on ...
