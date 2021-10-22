@@ -29,6 +29,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=iris-detector-frontend)](https://github.com/barisayyildiz/iris-detector-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=iris-detector-backend)](https://github.com/barisayyildiz/iris-detector-backend)
 
+### Currency Exchange
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=Money-Exchange)](https://github.com/barisayyildiz/Money-Exchange)
 
 
 <!--
