@@ -36,6 +36,10 @@
 ### My Personal Website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=my-portfolio-page)](https://github.com/barisayyildiz/my-portfolio-page)
 
+### React.js Admin Panel
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=anicare_admin_paneli)](https://github.com/barisayyildiz/anicare_admin_paneli)
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
