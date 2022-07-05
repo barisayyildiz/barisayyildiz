@@ -26,9 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barisayyildiz&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-### Iris Flower Detector
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=iris-detector-frontend)](https://github.com/barisayyildiz/iris-detector-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=iris-detector-backend)](https://github.com/barisayyildiz/iris-detector-backend)
+### Wordle Clone
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=wordle-clone)](https://github.com/barisayyildiz/wordle-clone)
 
 ### Currency Exchange
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=Money-Exchange)](https://github.com/barisayyildiz/Money-Exchange)
@@ -38,6 +37,10 @@
 
 ### React.js Admin Panel
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=anicare_admin_paneli)](https://github.com/barisayyildiz/anicare_admin_paneli)
+
+### Iris Flower Detector
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=iris-detector-frontend)](https://github.com/barisayyildiz/iris-detector-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=iris-detector-backend)](https://github.com/barisayyildiz/iris-detector-backend)
 
 
 <!--
