@@ -13,22 +13,13 @@
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=barisayyildiz&theme=dark&text_color=68B486&title_color=90B427&show_icons=true"> 
 -->
-<br/><br/>
+<br/>
 
 ## Projects
-### Wordle Clone
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=wordle-clone)](https://github.com/barisayyildiz/wordle-clone)
-
-### React.js Admin Paneli
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=anicare_admin_paneli)](https://github.com/barisayyildiz/anicare_admin_paneli)
-
-### Currency Exchange
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=Money-Exchange)](https://github.com/barisayyildiz/Money-Exchange)
-
-### Image Search Gallery
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=image-search-gallery)](https://github.com/barisayyildiz/image-search-gallery)
-
-### My Personal Website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=my-portfolio-page)](https://github.com/barisayyildiz/my-portfolio-page)
 
 <!--
