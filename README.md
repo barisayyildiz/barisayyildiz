@@ -25,6 +25,9 @@
 ### Currency Exchange
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=Money-Exchange)](https://github.com/barisayyildiz/Money-Exchange)
 
+### Image Search Gallery
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=image-search-gallery)](https://github.com/barisayyildiz/image-search-gallery)
+
 ### My Personal Website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=my-portfolio-page)](https://github.com/barisayyildiz/my-portfolio-page)
 
