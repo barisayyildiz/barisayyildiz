@@ -21,6 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=image-search-gallery)](https://github.com/barisayyildiz/image-search-gallery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=my-portfolio-page)](https://github.com/barisayyildiz/my-portfolio-page)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=tournament-predictor)](https://github.com/barisayyildiz/tournament-predictor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=turkish-vowel-classification)]([https://github.com/barisayyildiz/tournament-predictor](https://github.com/barisayyildiz/turkish-vowel-classification))
 
 <!--
 - 🔭 I’m currently working on ...
