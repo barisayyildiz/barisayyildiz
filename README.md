@@ -19,9 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=wordle-clone)](https://github.com/barisayyildiz/wordle-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=Money-Exchange)](https://github.com/barisayyildiz/Money-Exchange)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=image-search-gallery)](https://github.com/barisayyildiz/image-search-gallery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=my-portfolio-page)](https://github.com/barisayyildiz/my-portfolio-page)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=turkish-vowel-classification)](https://github.com/barisayyildiz/turkish-vowel-classification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=discovery-of-hecs)](https://github.com/barisayyildiz/discovery-of-hecs)
 
 
 <!--
