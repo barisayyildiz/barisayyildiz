@@ -15,12 +15,6 @@
 -->
 <br/>
 
-## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=wordle-clone)](https://github.com/barisayyildiz/wordle-clone)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=Money-Exchange)](https://github.com/barisayyildiz/Money-Exchange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=image-search-gallery)](https://github.com/barisayyildiz/image-search-gallery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barisayyildiz&repo=turkish-vowel-classification)](https://github.com/barisayyildiz/turkish-vowel-classification)
-
 
 <!--
 - 🔭 I’m currently working on ...
