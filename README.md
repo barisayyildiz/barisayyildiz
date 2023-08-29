@@ -15,6 +15,9 @@
 -->
 <br/>
 
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=barisayyildiz)](https://git.io/streak-stats)
 
 <!--
 - 🔭 I’m currently working on ...
