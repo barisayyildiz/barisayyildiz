@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development
 
-### Connect with me
+### Contact with me
 <a href="https://barisayyildiz.vercel.app/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/2048px-Globe_icon.svg.png" width="40">
 </a>
