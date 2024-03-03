@@ -1,14 +1,10 @@
 # Hi 👋 I'm Barış Ayyıldız
 
-- 🌱 I’m currently learning Web Development
-
 ### Contact with me
-<a href="https://barisayyildiz.vercel.app/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Globe_icon.svg/2048px-Globe_icon.svg.png" width="40">
+<a href="https://linkedin.com/in/barisayyildiz" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barisayyildiz" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/barisayyildiz/">
-  <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="40">
-</a>  
+
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=barisayyildiz&theme=dark&text_color=68B486&title_color=90B427&show_icons=true"> 
